@@ -7,8 +7,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TaskOneEnums" />
         <module name="big_data_school" />
+        <module name="TaskOneEnums" />
       </profile>
     </annotationProcessing>
   </component>
